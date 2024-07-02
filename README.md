@@ -13,8 +13,8 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-with-block-style-4m8xw71V2j)
+- Live Site URL: [](https://ahmed-elgammal-900.github.io/Huddle-landing-page-with-blocks-style/)
 
 ## Author
 
